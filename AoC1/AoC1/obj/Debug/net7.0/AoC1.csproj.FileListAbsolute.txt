@@ -1,0 +1,15 @@
+C:\Users\MTSCHEPL\OneDrive - COMPUTACENTER\Desktop\programmierungC#\AdventOfCode\Tag1\AoC1\AoC1\bin\Debug\net7.0\AoC1.exe
+C:\Users\MTSCHEPL\OneDrive - COMPUTACENTER\Desktop\programmierungC#\AdventOfCode\Tag1\AoC1\AoC1\bin\Debug\net7.0\AoC1.deps.json
+C:\Users\MTSCHEPL\OneDrive - COMPUTACENTER\Desktop\programmierungC#\AdventOfCode\Tag1\AoC1\AoC1\bin\Debug\net7.0\AoC1.runtimeconfig.json
+C:\Users\MTSCHEPL\OneDrive - COMPUTACENTER\Desktop\programmierungC#\AdventOfCode\Tag1\AoC1\AoC1\bin\Debug\net7.0\AoC1.dll
+C:\Users\MTSCHEPL\OneDrive - COMPUTACENTER\Desktop\programmierungC#\AdventOfCode\Tag1\AoC1\AoC1\bin\Debug\net7.0\AoC1.pdb
+C:\Users\MTSCHEPL\OneDrive - COMPUTACENTER\Desktop\programmierungC#\AdventOfCode\Tag1\AoC1\AoC1\obj\Debug\net7.0\AoC1.csproj.AssemblyReference.cache
+C:\Users\MTSCHEPL\OneDrive - COMPUTACENTER\Desktop\programmierungC#\AdventOfCode\Tag1\AoC1\AoC1\obj\Debug\net7.0\AoC1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MTSCHEPL\OneDrive - COMPUTACENTER\Desktop\programmierungC#\AdventOfCode\Tag1\AoC1\AoC1\obj\Debug\net7.0\AoC1.AssemblyInfoInputs.cache
+C:\Users\MTSCHEPL\OneDrive - COMPUTACENTER\Desktop\programmierungC#\AdventOfCode\Tag1\AoC1\AoC1\obj\Debug\net7.0\AoC1.AssemblyInfo.cs
+C:\Users\MTSCHEPL\OneDrive - COMPUTACENTER\Desktop\programmierungC#\AdventOfCode\Tag1\AoC1\AoC1\obj\Debug\net7.0\AoC1.csproj.CoreCompileInputs.cache
+C:\Users\MTSCHEPL\OneDrive - COMPUTACENTER\Desktop\programmierungC#\AdventOfCode\Tag1\AoC1\AoC1\obj\Debug\net7.0\AoC1.dll
+C:\Users\MTSCHEPL\OneDrive - COMPUTACENTER\Desktop\programmierungC#\AdventOfCode\Tag1\AoC1\AoC1\obj\Debug\net7.0\refint\AoC1.dll
+C:\Users\MTSCHEPL\OneDrive - COMPUTACENTER\Desktop\programmierungC#\AdventOfCode\Tag1\AoC1\AoC1\obj\Debug\net7.0\AoC1.pdb
+C:\Users\MTSCHEPL\OneDrive - COMPUTACENTER\Desktop\programmierungC#\AdventOfCode\Tag1\AoC1\AoC1\obj\Debug\net7.0\AoC1.genruntimeconfig.cache
+C:\Users\MTSCHEPL\OneDrive - COMPUTACENTER\Desktop\programmierungC#\AdventOfCode\Tag1\AoC1\AoC1\obj\Debug\net7.0\ref\AoC1.dll
